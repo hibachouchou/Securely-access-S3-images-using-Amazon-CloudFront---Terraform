@@ -2,7 +2,7 @@
 
 Architecture Diagram :
 
-![Architecture Diagram](iam.png)
+![Architecture Diagram](cloudfront.png)
 
 > #### Terraform commands 
 >
